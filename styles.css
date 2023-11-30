@@ -1,0 +1,40 @@
+#header {
+    background-color: rgb(66, 125, 157);
+}
+
+#name {
+    font-family: 'Tangerine', serif;
+    font-size: 5rem;
+}
+
+#love {
+    font-family: 'Tangerine', serif;
+    font-size: 3rem;
+}
+
+.me {
+    margin-top: 150px;
+}
+
+#hello {
+    margin-top: 75px;
+    color: red;
+    font-size: 6rem;
+    font-family: 'Tangerine', serif;
+}
+
+#contact {
+    margin-top: 50px;
+
+}
+
+#like {
+    margin-top: 50px;
+
+}
+
+#footer {
+    margin-top: 100px;
+    background-color: rgb(155, 190, 200);
+    height: 100px;
+}
